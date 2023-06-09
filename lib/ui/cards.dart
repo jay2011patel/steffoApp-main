@@ -30,7 +30,7 @@ Widget orderCard(BuildContext context, Order order, String? curr_user_id) {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Container(
-                  height: 50,
+                  height: 51,
                   padding: EdgeInsets.only(left: 10, top: 7),
                   width: MediaQuery.of(context).size.width / 1.085,
                   // color: Colors.red,
